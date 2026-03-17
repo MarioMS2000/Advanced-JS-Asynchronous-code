@@ -170,3 +170,4 @@ function fetchGithubUsers(userNames) {
         });
 }
 
+fetchGithubUsers(["octocat","torvalds","gaearon"]).then((data) => console.log("Usuarios: ", data))
