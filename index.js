@@ -1,8 +1,6 @@
 //RESUELVE TUS EJERCICIOS AQUI
 //Utiliza la API (https://dog.ceo/dog-api/) para resolver estos ejercicios.
 
-const { use } = require("react");
-
 /*1.- Declara una funcion getAllBreeds que devuelva un array de strings 
 con todas las razas de perro.*/
 /*function getAllBreeds() {
